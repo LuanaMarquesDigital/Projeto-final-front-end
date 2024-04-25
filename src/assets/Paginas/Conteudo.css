@@ -25,18 +25,8 @@ main{
     color: rgb(187, 0, 255);
 }
 
-#imagem-1 img {
-    margin-top: -480px;
-}
 
-#imagem-2 img {
-     margin-inline: -400px;
-     margin-top: 80px;
-}
 
-#imagem-3 img {
-    margin-inline: -400px;
-     margin-top: 600px;
-}
+
 
 

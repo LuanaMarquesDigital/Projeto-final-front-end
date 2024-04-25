@@ -10,10 +10,11 @@ function Conteudo2() {
                  Vamos falar sobre <span>Json Server</span>
              </p>
          
-             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. <br />
-              Fugit placeat provident libero eius optio asperiores tempora. <br />
-              Id eum molestiae doloribus, sequi explicabo aut quisquam ab <br />
-              numquam quibusdam eligendi dicta. Voluptate.
+             <p>Nesta página um texto apresentará a importância dessa ferramenta textual, <br />
+                que possibilita a transferência de dados entre servidor e cliente. <br />
+                Imagens e vídeos também serão utilizados para ilustrar seu funcionamento. <br />
+                 Pode-se criar o link na página home, ou dentro da página do JavaScript, <br />
+                  pois é uma forma de notação dos objetos JavaScript.
               </p>
          </div>
          <div id="link do video ou site">
@@ -43,10 +44,9 @@ function Conteudo2() {
                  Vamos falar sobre <span>Bootstrap</span>
              </p>
          
-             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. <br />
-              Fugit placeat provident libero eius optio asperiores tempora. <br />
-              Id eum molestiae doloribus, sequi explicabo aut quisquam ab <br />
-              numquam quibusdam eligendi dicta. Voluptate. <br />
+             <p>Esta página falará da importância de se construir um site com responsividade, <br />
+                 e que esse framework CSS facilita esse trabalho. Imagens e vídeos serão <br />
+                 postados na página, assim como site de pesquisa sobre documentação do recurso.
               </p>
          </div>
          <div id="link do video ou site">
